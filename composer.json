@@ -1,5 +1,5 @@
 {
-  "name": "iqmosaic/module-inventory-price",
+  "name": "pwa-extensions/module-inventory-price",
   "description": "Magento 2 MSI Inventory Price Module",
   "require": {
     "php": "~7.1.3||~7.2.0",

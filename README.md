@@ -20,5 +20,5 @@ In your Magento 2 root directory run
 ## Feature Roadmap
 There is no ETA for implementation, but here is the list in order of priority.
 1. Front end implementation
-2. Impor/Export integration
+2. Import/Export integration
 3. Integration with Suppliers module 
